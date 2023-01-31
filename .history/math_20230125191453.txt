@@ -1,0 +1,6 @@
+ant 9
+
+ A0 A1 A2   1   
+ G0 G1 G2 G3 G4 D3 
+ B0 B1 E2 D2 F3 F4  
+C0 C1 C2 C3 I4 I5  
